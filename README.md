@@ -37,6 +37,6 @@ The analysis of the election showed that:
 
 ## Election-Audit Summary: 
 
-This Election-Audit script now has more basic information, but some extra analysis could be applied, such as the turnout rate of each county, and the breakout of the county votes that each candidate won, especially the winner's votes. With those data, we could see if certain counties prefer specific candidates and check the correlation between the turnout rate and candidate lobby efforts in each county.
+This Election-Audit script can be scaled up or down to be applied to elections of different levels with some proper modifications. For example, change the county to state or district to get the analysis result for president or Mayor elections. 
 
-With some proper modifications, the script can be scaled up or down to elections of different sizes. Change the county to state or district to get the analysis result for president or Mayor elections.
+This script also has a wide range of users. Some extra analysis could be added to further the depth of the audit, such as the turnout rate of each county, and the breakout of the county votes that each candidate won, especially the winner's votes. With those data, we could see if certain counties prefer specific candidates and check the correlation between the turnout rate and candidate's lobby efforts in each county. Future candidates can use this to help set up their lobby strategies and budget allocation. 
