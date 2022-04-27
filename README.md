@@ -37,8 +37,6 @@ The analysis of the election show that:
 
 ## Election-Audit Summary: 
 
-In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-
 Thi Election-Audit script now has more the basic information needed. Some extra analysis could be applied, such as the turnout rate of each county, and the breakout of the county votes that each candidate won, especially the winner's votes. With those data, we could see if certain counties have preference to certain candidates, and check the correlation between the turnout rate and candidate lobby efforts with each county.
 
 With some proper modifications, the script can be scaled up or down to elections of different sizes. Change the county to state or district to get the analysis result for president or Mayor elections.
